@@ -18,7 +18,6 @@
 3. **Region Selection:** Ensure "Asia Pacific (Mumbai)" is selected in the top-right corner
 4. In the search bar, type "S3" and select **Amazon S3**
 
-> 📸 **Reference:** Screenshot 2026-03-13 115407.png shows the S3 dashboard with region set to Mumbai
 
 ---
 
@@ -324,5 +323,6 @@ http://aws-bucket-static-web-kishore.s3-website.ap-south-1.amazonaws.com
 **Cost:** Minimal (usually under $1/month for low traffic)
 
 ---
+
 
 *This completes the detailed step-by-step implementation of hosting a static website on AWS S3.* 🚀
